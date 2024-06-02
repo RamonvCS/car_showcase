@@ -4,13 +4,14 @@ This project is developed by Ramon Valentin. Explore more projects on [Ramon's G
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), designed to create an efficient and user-friendly rental service platform.
 
+
 ## Screenshots
 
 ### Landing Page
-![Landing Page](./public/assets/images/Carhub1.png)
+![Landing Page](./public/Carhub1.png)
 
 ### Second Page
-![Second Page](./public/assets/images/Carhub2.png)
+![Second Page](./public/Carhub2.png)
 
 ## Features
 
