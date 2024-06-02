@@ -56,15 +56,5 @@ pnpm dev
 bun dev
 
 
-Deployment
-The easiest way to deploy your Next.js app is to use Vercel, from the creators of Next.js.
 
-Create a Vercel account if you don't have one.
-Connect your GitHub repository on Vercel.
-Deploy the project directly from Vercel's dashboard.
-Contributing
-Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
-
-Contact
-For any inquiries or issues, please contact Ramon Valentin at Ramon's GitHub.
 
